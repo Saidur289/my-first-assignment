@@ -87,3 +87,189 @@ border-radius: 8px;
 background: rgb(13, 19, 33);
 padding: 21px;
 }
+/* web development start here  */
+.development-container{
+    width: 1140px;
+height: 1393px;
+margin-left: 148px;
+margin-right: 153px;
+margin-top: 74px;
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.02);
+
+}
+.development-content{
+    width: 946px;
+height: 1233px;
+margin: 80px 97px;
+
+}
+.content-text{
+    margin: 0px auto;
+    width: 852px;
+height: 113px;
+}
+.content-text h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.content-text{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.web-contain{
+    width: 90%;
+    margin: 0 auto;
+height: 336px;
+margin-top: 30px;
+border-radius: 16px;
+
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.web-contain-text{
+    width: 850px;
+    height: 336px;
+    display: flex;
+    gap: 50px;
+    
+}
+.text-description{
+    width: 477px;
+height: 336px;
+align-items: center;
+
+justify-content: center;
+}
+.text-description h1{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+padding: 16px;
+}
+.text-description p{
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 16px;
+    display: flex;
+    
+}
+.bn{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 10px;
+
+}
+.bn-primary{
+    margin-left: 15px;
+    margin-top: 60px;
+   
+ 
+}
+.contain-image {
+    width: 259.56px;
+height: 217.01px;
+margin-top: 50px;
+margin-left: 30px;
+
+}
+.web-contains{
+    width: 850px;
+   height: 336px;
+   margin-top: 30px;
+   display: flex;
+   gap: 32px;
+
+}
+.web-contains-image{
+    width: 240px;
+    height: 240px;
+    margin-top: 45px;
+
+}
+.web-contains-image img{
+    width: 223.2px;
+height: 208.85px;
+}
+.web-contains h1{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+padding: 16px;
+}
+.web-contains p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+padding: 16px;
+opacity: 0.7;
+}
+.last-web-contain{
+    width: 850px;
+    height: 336px;
+    margin-top: 20px;
+    display: flex;
+    
+}
+.last-web-contains-text h1{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+padding: 16px;
+}
+.last-web-contains-text p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+padding: 16px;
+
+}
+.last-bn-primary{
+    margin-left: 20px;
+    margin-top: 80px;
+}
+/* web devements ends here  */
