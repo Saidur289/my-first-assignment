@@ -326,3 +326,95 @@ height: 614px;
 
   
 }
+.skill{
+    width: 1140px;
+    height: 460px;
+    margin: 0px auto;
+    margin-left: 152px;
+}
+.skill-text{
+    width: 946px;
+height: 113px;
+margin: 0px auto;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.skill-text h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+.skill-text p{
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.skill-container{
+    width: 1140px;
+   height: 299px;
+   margin-top: 48px;
+   display: flex;
+}
+.first-skill{
+    width: 33%;
+    height: 299px;
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+.second-skill{
+    width: 33%;
+    height: 299px;
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+.third-skill{
+    width: 33%;
+    height: 299px;
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+.first-text{
+    width: 284px;
+height: 219px;
+margin: 24px auto;
+}
+.first-text h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.first-text p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.first-text a{
+    Font: Azeret Mono
+Font weight: 700
+Font size: 16pxpx
+Row height: 19px
+Letter spacing: 0%
+Align: Align left
+}
